@@ -1,6 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m @pascallaub<br>👀 I’m interested in Science, IT, Physics<br>🌱 I’m currently learning Linux and Python<br>⚡ Fun fact: A chicken once lived for 18 months without a head
-
+<br>👋 Hi, I’m @pascallaub<br>👀 I’m interested in Science, IT, Physics<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pascal-laub-a66029330) 
